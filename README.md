@@ -12,4 +12,5 @@ Supports: 10.15.7(Catalina) - 11.0(Big Sur)
 
 Thanks to Opencore team and Rehabman for this amazing learning opportunity!
 
-Remove USBMap.kext if it hinders anything, same with RTWLAN kexts for USB WIFI (if you have a different internet solution) Everything else can stay :)
+Remove USBMap.kext if it hinders anything, same with RTWLAN kexts for USB WIFI (if you have a different internet solution) Everything else can stay (Fixed in v1.1)
+
