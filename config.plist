@@ -280,18 +280,15 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)
-
-</key>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id
-</key>
+				<key>AAPL,ig-platform-id</key>
 				<data>BgAmCg==</data>
-				<key>device-id	</key>
+				<key>device-id</key>
 				<data>EgQAAA==</data>
-				<key>framebuffer-cursor</key>
+				<key>framebuffer-cursormem</key>
 				<data>AACQAA==</data>
-				<key>framebuffer-patch-enable	</key>
+				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x0)/Pci(0x0,0x0)</key>
